@@ -36,8 +36,8 @@ body {
 }
 
 .container img {
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
     color: #8dc63d;
     filter: invert(75%) sepia(7%) saturate(4073%) hue-rotate(41deg) brightness(102%) contrast(73%);
 }
