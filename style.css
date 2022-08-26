@@ -86,13 +86,13 @@ input {
         align-items: center;
         display: flex;
         flex-direction: column;
-        /*top:0;right: 0;bottom: 0;left: 0;*/
         background-color: #111926;
-        border: 1px green solid;
+        /* border: 1px green solid; */
+        /*top:0;right: 0;bottom: 0;left: 0;*/
     }
     .forms {
         width: 80%;
-        border: 1px yellow dashed;
+        /* border: 1px yellow dashed; */
     }
     .form input {
         width: 100%;
