@@ -6,10 +6,10 @@ body {
     font-size: 15pt;
     color: white;
     background-color: #19222f;
-    border: 1px red solid;
     display: flex;
     justify-content: center;
     align-items: center;
+    /* border: 1px red solid; */
 }
 
 .logo {
@@ -30,14 +30,13 @@ body {
     align-items: center;
     display: flex;
     flex-direction: column;
-    /*top:0;right: 0;bottom: 0;left: 0;*/
     background-color: #111926;
-    border: 1px green solid;
+    /* border: 1px green solid; */
 }
 
 .forms {
     width: 80%;
-    border: 1px yellow dashed;
+    /* border: 1px yellow dashed; */
 }
 
 .form,
@@ -71,6 +70,11 @@ input {
 .btnLogin:hover {
     background-color: #8dc63d;
     color: white;
+}
+
+.btnSignup:hover {
+    background-color: #2b4022;
+    color: #8dc63d;
 }
 
 @media screen and (width <=640px) {
