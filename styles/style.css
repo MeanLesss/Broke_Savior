@@ -35,6 +35,13 @@ body {
     /* border: 1px green solid; */
 }
 
+.container img {
+    width: 100px;
+    height: 100px;
+    color: #8dc63d;
+    filter: invert(75%) sepia(7%) saturate(4073%) hue-rotate(41deg) brightness(102%) contrast(73%);
+}
+
 .forms {
     width: 80%;
     /* border: 1px yellow dashed; */
