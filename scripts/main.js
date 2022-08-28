@@ -7,7 +7,7 @@ btnLogin.onclick = function() {
 
     if (user.username == "mean" && user.password == 123) {
         alert("Login successfully !!");
-        window.location.href = "http://www.youtube.com";
+        //window.location.href = "http://www.youtube.com";
     } else {
         alert("Login failed !!");
     }
